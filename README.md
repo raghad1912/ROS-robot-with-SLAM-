@@ -50,7 +50,9 @@
 to control a moveing of robot , use this command : 
 <p><code>$ roslaunch fouliex_bot teleop.launch</code></p>
 
-https://user-images.githubusercontent.com/56357074/124365621-f8d36f80-dc51-11eb-938d-e75ecb7fd9bf.mp4
+
+
+https://user-images.githubusercontent.com/56357074/124365827-43092080-dc53-11eb-8af6-ed404cb68bd6.mp4
 
 
 
