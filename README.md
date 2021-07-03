@@ -28,7 +28,8 @@
 
 
 ### to execute a project :
-
+ 
+ 
 #### to run gazebo : 
 
 <p><code>$ roslaunch fouliex_bot fouliex_world.launch</code></p>
@@ -37,11 +38,14 @@
 
 
 #### to run a RTAB map ( to show a map ) : 
+
 <p><code>$ roslaunch fouliex_bot mapping.launch</code></p>
 
 ![task2RTABmap](https://user-images.githubusercontent.com/56357074/124365561-92e6e800-dc51-11eb-9f88-b9e2c94d878d.png)
 
+
 #### to run Rviz : 
+
 <p><code>$ roslaunch fouliex_bot rviz.launch</code></p>
 
 ![task2Rviz](https://user-images.githubusercontent.com/56357074/124365563-967a6f00-dc51-11eb-8257-cb4da5f0360c.png)
@@ -50,12 +54,11 @@
 to control a moveing of robot , use this command : 
 <p><code>$ roslaunch fouliex_bot teleop.launch</code></p>
 
-https://user-images.githubusercontent.com/56357074/124365865-99765f00-dc53-11eb-81eb-a8f0ebdd5e77.mp4
 
 
-https://user-images.githubusercontent.com/56357074/124365827-43092080-dc53-11eb-8af6-ed404cb68bd6.mp4
 
 
+https://user-images.githubusercontent.com/56357074/124365916-0be73f00-dc54-11eb-8153-7c5289d4c6c4.mp4
 
 
 
