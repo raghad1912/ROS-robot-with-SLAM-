@@ -61,7 +61,9 @@ to control a moveing of robot , use this command :
 https://user-images.githubusercontent.com/56357074/124365916-0be73f00-dc54-11eb-8153-7c5289d4c6c4.mp4
 
 
+### save map 
 
+<p><code>$ rosrun map_server map_saver -f my_map</code></p>
 
 
 
